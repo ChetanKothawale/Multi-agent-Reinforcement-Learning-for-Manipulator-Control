@@ -1,4 +1,4 @@
-# reinforcement-learning-for-redundant-robot-control-in-task‑space
+# Multi-agent Reinforcement Learning for Manipulator Control
 
 This repository implements various control strategies for a **4-DOF redundant robotic manipulator** in task-space. It features a comparative analysis between traditional Jacobian-based methods and a fully cooperative **Multi-Agent Reinforcement Learning (MARL)** framework.
 
