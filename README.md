@@ -47,5 +47,4 @@ The project addresses the inverse kinematics (IK) problem for redundant robots, 
 * Robustness**: The RL-based approach demonstrated superior stability near singular points where traditional pseudo-inverse methods typically fail.
 
 
-* 
-**Model-Free Potential**: MARL learned the inverse kinematics solution without requiring explicit symbolic differentiation.
+* Model-Free Potential**: MARL learned the inverse kinematics solution without requiring explicit symbolic differentiation.
